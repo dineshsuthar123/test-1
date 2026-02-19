@@ -1,0 +1,54 @@
+{
+  "repository": "C:\\Users\\Naresh Suthar\\vscode projects\\Rift\\backend\\tmp\\workspace\\5d47e236-cfbb-4f54-a242-f9f002a484a1",
+  "team_name": "test214",
+  "leader_name": "test214",
+  "branch_name": "TEST214_TEST214_AI_Fix",
+  "timestamp": "2026-02-19T18:57:55.430621+00:00",
+  "total_time_seconds": 12.28,
+  "iterations_used": 3,
+  "max_iterations": 50,
+  "all_tests_passed": true,
+  "ci_status": "PASSED",
+  "summary": {
+    "total_failures_detected": 2,
+    "total_fixes_applied": 1,
+    "total_fixes_failed": 0
+  },
+  "score": {
+    "base_score": 100,
+    "speed_bonus": 10,
+    "efficiency_penalty": 0,
+    "final_score": 110
+  },
+  "fixes": [
+    {
+      "file": "test.py",
+      "bug_type": "SYNTAX",
+      "line_number": 1,
+      "commit_message": "[AI-AGENT] Fix syntax error in test.py by adding closing parenthesis",
+      "status": "fixed",
+      "description": "SYNTAX error in test.py line 1 -> Fix: add the closing parenthesis",
+      "fix_description": "add the closing parenthesis"
+    }
+  ],
+  "ci_timeline": [
+    {
+      "iteration": 1,
+      "status": "FAILED",
+      "timestamp": "2026-02-19T18:57:55.430621+00:00",
+      "errors_remaining": null
+    },
+    {
+      "iteration": 2,
+      "status": "FAILED",
+      "timestamp": "2026-02-19T18:57:55.430621+00:00",
+      "errors_remaining": null
+    },
+    {
+      "iteration": 3,
+      "status": "PASSED",
+      "timestamp": "2026-02-19T18:57:55.430621+00:00",
+      "errors_remaining": 0
+    }
+  ]
+}
