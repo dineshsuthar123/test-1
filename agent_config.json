@@ -1,0 +1,10 @@
+{
+  "repo_path": "D:\\Rift\\backend\\tmp\\workspace\\aabb41c9-6ce9-4c27-b088-26749b642690",
+  "repo_url": "https://github.com/Nikhil-DEV-777/test",
+  "team_name": "TESTSHELLO",
+  "leader_name": "HII",
+  "branch_name": "TESTSHELLO_HII_AI_Fix",
+  "max_iterations": 50,
+  "sandbox_image": "rift-sandbox:latest",
+  "sandbox_timeout": 120000
+}
