@@ -1,0 +1,10 @@
+{
+  "repo_path": "C:\\Users\\Naresh Suthar\\vscode projects\\Rift\\backend\\tmp\\workspace\\64ed8c28-24f1-4cde-9849-ea24189022be",
+  "repo_url": "https://github.com/Nikhil-DEV-777/test",
+  "team_name": "RiftTeam",
+  "leader_name": "Dinesh",
+  "branch_name": "RIFTTEAM_DINESH_AI_Fix",
+  "max_iterations": 50,
+  "sandbox_image": "rift-sandbox:latest",
+  "sandbox_timeout": 120000
+}

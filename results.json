@@ -1,0 +1,50 @@
+{
+  "repository": "C:\\Users\\Naresh Suthar\\vscode projects\\Rift\\backend\\tmp\\workspace\\64ed8c28-24f1-4cde-9849-ea24189022be",
+  "team_name": "RiftTeam",
+  "leader_name": "Dinesh",
+  "branch_name": "RIFTTEAM_DINESH_AI_Fix",
+  "timestamp": "2026-02-19T22:17:46.021467+00:00",
+  "total_time_seconds": 61.34,
+  "iterations_used": 4,
+  "max_iterations": 50,
+  "all_tests_passed": false,
+  "ci_status": "FAILED",
+  "summary": {
+    "total_failures_detected": 2,
+    "total_fixes_applied": 0,
+    "total_fixes_failed": 0
+  },
+  "score": {
+    "base_score": 100,
+    "speed_bonus": 10,
+    "efficiency_penalty": 0,
+    "final_score": 110
+  },
+  "fixes": [],
+  "ci_timeline": [
+    {
+      "iteration": 1,
+      "status": "FAILED",
+      "timestamp": "2026-02-19T22:17:46.021467+00:00",
+      "errors_remaining": 2
+    },
+    {
+      "iteration": 2,
+      "status": "FAILED",
+      "timestamp": "2026-02-19T22:17:46.021467+00:00",
+      "errors_remaining": 2
+    },
+    {
+      "iteration": 3,
+      "status": "FAILED",
+      "timestamp": "2026-02-19T22:17:46.021467+00:00",
+      "errors_remaining": 2
+    },
+    {
+      "iteration": 4,
+      "status": "FAILED",
+      "timestamp": "2026-02-19T22:17:46.021467+00:00",
+      "errors_remaining": 2
+    }
+  ]
+}
