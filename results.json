@@ -1,0 +1,50 @@
+{
+  "repository": "/app/backend/tmp/workspace/3ff7207c-1fcf-45a2-83de-75e7167970ef",
+  "team_name": "abc",
+  "leader_name": "abc",
+  "branch_name": "ABC_ABC_AI_Fix",
+  "timestamp": "2026-02-20T01:00:31.882213+00:00",
+  "total_time_seconds": 28.9,
+  "iterations_used": 4,
+  "max_iterations": 10,
+  "all_tests_passed": false,
+  "ci_status": "FAILED",
+  "summary": {
+    "total_failures_detected": 1,
+    "total_fixes_applied": 0,
+    "total_fixes_failed": 0
+  },
+  "score": {
+    "base_score": 100,
+    "speed_bonus": 10,
+    "efficiency_penalty": 0,
+    "final_score": 110
+  },
+  "fixes": [],
+  "ci_timeline": [
+    {
+      "iteration": 1,
+      "status": "FAILED",
+      "timestamp": "2026-02-20T01:00:31.882235+00:00",
+      "errors_remaining": 1
+    },
+    {
+      "iteration": 2,
+      "status": "FAILED",
+      "timestamp": "2026-02-20T01:00:31.882239+00:00",
+      "errors_remaining": 1
+    },
+    {
+      "iteration": 3,
+      "status": "FAILED",
+      "timestamp": "2026-02-20T01:00:31.882242+00:00",
+      "errors_remaining": 1
+    },
+    {
+      "iteration": 4,
+      "status": "FAILED",
+      "timestamp": "2026-02-20T01:00:31.882245+00:00",
+      "errors_remaining": 1
+    }
+  ]
+}
