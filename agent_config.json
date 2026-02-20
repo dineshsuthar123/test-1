@@ -1,0 +1,10 @@
+{
+  "repo_path": "D:\\Rift\\backend\\tmp\\workspace\\df5bd925-d4a7-4d69-9719-b966ab99b4cb",
+  "repo_url": "https://github.com/Nikhil-DEV-777/test.git",
+  "team_name": "abcd",
+  "leader_name": "abcd",
+  "branch_name": "ABCD_ABCD_AI_Fix",
+  "max_iterations": 50,
+  "sandbox_image": "rift-sandbox:latest",
+  "sandbox_timeout": 120000
+}
