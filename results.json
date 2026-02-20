@@ -1,0 +1,48 @@
+{
+  "repository": "/app/backend/tmp/workspace/ece08361-8c78-4f0c-85b3-53af66af2f4a",
+  "team_name": "Error 404",
+  "leader_name": "Viveekk222",
+  "branch_name": "ERROR_404_VIVEEKK222_AI_Fix",
+  "timestamp": "2026-02-20T02:23:50.168559+00:00",
+  "total_time_seconds": 13.7,
+  "iterations_used": 2,
+  "max_iterations": 10,
+  "all_tests_passed": true,
+  "ci_status": "PASSED",
+  "summary": {
+    "total_failures_detected": 1,
+    "total_fixes_applied": 1,
+    "total_fixes_failed": 0
+  },
+  "score": {
+    "base_score": 100,
+    "speed_bonus": 10,
+    "efficiency_penalty": 0,
+    "final_score": 110
+  },
+  "fixes": [
+    {
+      "file": "test.py",
+      "bug_type": "SYNTAX",
+      "line_number": 2,
+      "commit_message": "[AI-AGENT] Fix syntax error in print statement in test.py",
+      "status": "fixed",
+      "description": "SYNTAX error in test.py line 2 -> Fix: add the closing parenthesis",
+      "fix_description": "add the closing parenthesis"
+    }
+  ],
+  "ci_timeline": [
+    {
+      "iteration": 1,
+      "status": "FAILED",
+      "timestamp": "2026-02-20T02:23:50.168579+00:00",
+      "errors_remaining": 1
+    },
+    {
+      "iteration": 2,
+      "status": "PASSED",
+      "timestamp": "2026-02-20T02:23:50.168583+00:00",
+      "errors_remaining": 0
+    }
+  ]
+}
