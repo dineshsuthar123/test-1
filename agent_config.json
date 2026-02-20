@@ -1,0 +1,10 @@
+{
+  "repo_path": "D:\\Rift\\backend\\tmp\\workspace\\7d9f5f83-d22b-40b4-bd13-7dfa14ea4058",
+  "repo_url": "https://github.com/Nikhil-DEV-777/test.git",
+  "team_name": "Error 404",
+  "leader_name": "Vivek",
+  "branch_name": "ERROR_404_VIVEK_AI_Fix",
+  "max_iterations": 50,
+  "sandbox_image": "rift-sandbox:latest",
+  "sandbox_timeout": 120000
+}
