@@ -1,0 +1,10 @@
+{
+  "repo_path": "/app/backend/tmp/workspace/88b999ce-e61d-4313-9f20-8e3262d02b75",
+  "repo_url": "https://github.com/Nikhil-DEV-777/test",
+  "team_name": "fsfesfe",
+  "leader_name": "segseges",
+  "branch_name": "FSFESFE_SEGSEGES_AI_Fix",
+  "max_iterations": 10,
+  "sandbox_image": "rift-sandbox:latest",
+  "sandbox_timeout": 120000
+}
