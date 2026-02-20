@@ -1,0 +1,10 @@
+{
+  "repo_path": "/app/backend/tmp/workspace/b0b6b4f2-e31a-49ac-8031-3bc2ca8cb70a",
+  "repo_url": "https://github.com/Nikhil-DEV-777/test",
+  "team_name": "Test1-fix",
+  "leader_name": "Test1-fix",
+  "branch_name": "TEST1FIX_TEST1FIX_AI_Fix",
+  "max_iterations": 10,
+  "sandbox_image": "rift-sandbox:latest",
+  "sandbox_timeout": 120000
+}
