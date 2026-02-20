@@ -1,0 +1,10 @@
+{
+  "repo_path": "/app/backend/tmp/workspace/b8463c7a-0469-4980-be01-fb01d6aa6a68",
+  "repo_url": "https://github.com/Nikhil-DEV-777/test",
+  "team_name": "abc",
+  "leader_name": "bc",
+  "branch_name": "ABC_BC_AI_Fix",
+  "max_iterations": 10,
+  "sandbox_image": "rift-sandbox:latest",
+  "sandbox_timeout": 120000
+}
