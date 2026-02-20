@@ -1,0 +1,10 @@
+{
+  "repo_path": "/app/backend/tmp/workspace/1fc4beec-b469-4f3e-a1c9-361fc821bcb9",
+  "repo_url": "https://github.com/Nikhil-DEV-777/test",
+  "team_name": "ewfgew",
+  "leader_name": "gwge",
+  "branch_name": "EWFGEW_GWGE_AI_Fix",
+  "max_iterations": 10,
+  "sandbox_image": "rift-sandbox:latest",
+  "sandbox_timeout": 120000
+}
