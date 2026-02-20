@@ -1,0 +1,10 @@
+{
+  "repo_path": "/app/backend/tmp/workspace/a76612f6-449a-43a0-9999-a7f1d9e3952c",
+  "repo_url": "https://github.com/Nikhil-DEV-777/test",
+  "team_name": "Error 404",
+  "leader_name": "Viveekk22223",
+  "branch_name": "ERROR_404_VIVEEKK22223_AI_Fix",
+  "max_iterations": 10,
+  "sandbox_image": "rift-sandbox:latest",
+  "sandbox_timeout": 120000
+}
