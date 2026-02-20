@@ -1,0 +1,10 @@
+[
+  {
+    "type": "LINTING",
+    "file": "test.py",
+    "line": 2,
+    "message": "invalid-syntax unexpected EOF while parsing",
+    "source": "ruff",
+    "code": "invalid-syntax"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "repo_path": "/app/backend/tmp/workspace/b35ab377-e57c-4223-96e2-233c457bd0a8",
+  "repo_url": "https://github.com/Nikhil-DEV-777/test",
+  "team_name": "sf1231",
+  "leader_name": "fds1241",
+  "branch_name": "SF1231_FDS1241_AI_Fix",
+  "max_iterations": 10,
+  "sandbox_image": "rift-sandbox:latest",
+  "sandbox_timeout": 120000
+}
