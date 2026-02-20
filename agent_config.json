@@ -1,0 +1,10 @@
+{
+  "repo_path": "/app/backend/tmp/workspace/8818bcc2-7303-4c09-a0bf-9d8bfc003171",
+  "repo_url": "https://github.com/Nikhil-DEV-777/test.git",
+  "team_name": "Dinesh",
+  "leader_name": "Dineah",
+  "branch_name": "DINESH_DINEAH_AI_Fix",
+  "max_iterations": 10,
+  "sandbox_image": "rift-sandbox:latest",
+  "sandbox_timeout": 120000
+}
