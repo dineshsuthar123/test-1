@@ -1,0 +1,10 @@
+{
+  "repo_path": "D:\\Rift\\backend\\tmp\\workspace\\85ed1d49-8085-4f81-8a44-19b30578f40d",
+  "repo_url": "https://github.com/Nikhil-DEV-777/test.git",
+  "team_name": "abcd",
+  "leader_name": "adsas",
+  "branch_name": "ABCD_ADSAS_AI_Fix",
+  "max_iterations": 50,
+  "sandbox_image": "rift-sandbox:latest",
+  "sandbox_timeout": 120000
+}
