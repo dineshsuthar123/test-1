@@ -1,0 +1,48 @@
+{
+  "repository": "/app/backend/tmp/workspace/82feaf84-cc16-4293-9c00-94998d962569",
+  "team_name": "Error 4041",
+  "leader_name": "dinesh1",
+  "branch_name": "ERROR_4041_DINESH1_AI_Fix",
+  "timestamp": "2026-02-21T14:08:45.612089+00:00",
+  "total_time_seconds": 15.0,
+  "iterations_used": 2,
+  "max_iterations": 10,
+  "all_tests_passed": true,
+  "ci_status": "PASSED",
+  "summary": {
+    "total_failures_detected": 1,
+    "total_fixes_applied": 1,
+    "total_fixes_failed": 0
+  },
+  "score": {
+    "base_score": 100,
+    "speed_bonus": 10,
+    "efficiency_penalty": 0,
+    "final_score": 110
+  },
+  "fixes": [
+    {
+      "file": "test.py",
+      "bug_type": "SYNTAX",
+      "line_number": 2,
+      "commit_message": "[AI-AGENT] Fix syntax error in print statement in test.py",
+      "status": "fixed",
+      "description": "SYNTAX error in test.py line 2 -> Fix: add the closing parenthesis",
+      "fix_description": "add the closing parenthesis"
+    }
+  ],
+  "ci_timeline": [
+    {
+      "iteration": 1,
+      "status": "FAILED",
+      "timestamp": "2026-02-21T14:08:45.612107+00:00",
+      "errors_remaining": 1
+    },
+    {
+      "iteration": 2,
+      "status": "PASSED",
+      "timestamp": "2026-02-21T14:08:45.612110+00:00",
+      "errors_remaining": 0
+    }
+  ]
+}
