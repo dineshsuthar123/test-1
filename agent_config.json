@@ -1,0 +1,10 @@
+{
+  "repo_path": "/app/backend/tmp/workspace/d9f74e60-534e-4762-9edf-7c0e6139c49c",
+  "repo_url": "https://github.com/dineshsuthar123/test-1",
+  "team_name": "Error 404",
+  "leader_name": "dinesh",
+  "branch_name": "ERROR_404_DINESH_AI_Fix",
+  "max_iterations": 10,
+  "sandbox_image": "rift-sandbox:latest",
+  "sandbox_timeout": 120000
+}
